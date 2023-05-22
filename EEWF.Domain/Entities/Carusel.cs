@@ -21,5 +21,7 @@ namespace EEWF.Domain.Entities
 		public IFormFile ImageFile { get; set; }
 		public string Url { get; set; }
 		public string UrlText { get; set; }
+
+		//Test
     }
 }
