@@ -1,0 +1,15 @@
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\bin\Debug\net6.0\EEWF.Application.deps.json
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\bin\Debug\net6.0\EEWF.Application.dll
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\bin\Debug\net6.0\EEWF.Application.pdb
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\obj\Debug\net6.0\EEWF.Application.csproj.AssemblyReference.cache
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\obj\Debug\net6.0\EEWF.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\obj\Debug\net6.0\EEWF.Application.AssemblyInfoInputs.cache
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\obj\Debug\net6.0\EEWF.Application.AssemblyInfo.cs
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\obj\Debug\net6.0\EEWF.Application.csproj.CoreCompileInputs.cache
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\obj\Debug\net6.0\EEWF.Application.dll
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\obj\Debug\net6.0\refint\EEWF.Application.dll
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\obj\Debug\net6.0\EEWF.Application.pdb
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\obj\Debug\net6.0\ref\EEWF.Application.dll
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\bin\Debug\net6.0\EEWF.Domain.dll
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\bin\Debug\net6.0\EEWF.Domain.pdb
+C:\Users\nurla\source\repos\EEWF\EEWF.Application\obj\Debug\net6.0\EEWF.Application.csproj.CopyComplete
